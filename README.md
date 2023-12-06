@@ -10,3 +10,5 @@
 - pyvis
 - pandas
 
+## Результат: 
+![Иллюстрация к проекту](https://github.com/Georgiy2002/projects_in_political_science/image.png)
