@@ -1,0 +1,57 @@
+legend_html = """
+    <style>
+        .class1::marker {
+        color: #00FFFF;
+        font-size: 30px;
+        }
+        
+        .class2::marker {
+        color: #00FFFF;
+        font-size: 30px;
+        }
+        
+        .class3::marker {
+        color: #FFFF00;
+        font-size: 30px;
+        }
+        
+        .class4::marker {
+        color: #1E90FF;
+        font-size: 30px;
+        }
+        
+        .class5::marker {
+        color: #FF0000;
+        font-size: 30px;
+        }
+        
+        .class6::marker {
+        color: #00FF00;
+        font-size: 30px;
+        }
+        
+        .class7::marker {
+        color: #708090;
+        font-size: 30px;
+        }
+        
+        .class8::marker {
+        color: #D3D3D3;
+        font-size: 30px;
+        }
+        
+    </style>
+    <div class="legend"> 
+        <div class="legend-title" style="font-weight:700;">Условные обозначения:</div>
+            <ul class="legend-labels">
+                <li class="class1" style="list-style-type: square;">Аналит.центры Казахстана, на основе которых была построена сеть</li>
+                <li class="class2">Казахстан</li>
+                <li class="class3">Китай</li>   
+                <li class="class4">США</li>
+                <li class="class5">РФ</li>  
+                <li class="class6">ООН</li>
+                <li class="class7">ФРГ</li>  
+                <li class="class8">Другие</li> 
+            </ul>    
+    </div>
+"""
