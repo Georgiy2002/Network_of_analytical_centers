@@ -11,7 +11,7 @@
 - pandas
 
 ## Результат: 
-![Иллюстрация к проекту] (image.png)
+![Иллюстрация к проекту](image.png)
 
-(https://github.com/Georgiy2002/projects_in_political_science/raw/master/image/image.png)
+https://github.com/Georgiy2002/projects_in_political_science/raw/master/image/image.png
 
